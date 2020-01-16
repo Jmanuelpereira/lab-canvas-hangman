@@ -11,6 +11,8 @@ class HangmanCanvas {
 
   drawLines() {
 
+    //coments
+
   }
 
   writeCorrectLetter(index) {
